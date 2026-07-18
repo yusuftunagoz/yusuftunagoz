@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=,kali,linux,windows,arduino,raspberrypi,python,dart,flutter,git,github,vscode&perline=6)]()
+[![](https://skillicons.dev/icons?i=,kali,linux,windows,mint,arduino,raspberrypi,python,dart,flutter,git,github,vscode&perline=6)]()
 
 </div>
 
