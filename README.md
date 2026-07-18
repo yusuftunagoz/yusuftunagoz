@@ -1,7 +1,5 @@
 <div align="center">
 
-# Welcome to My GitHub!
-
 ## Hi There! I'm Yusuf Tuna Gözpınar
 
 ### Software Developer & Cybersecurity Enthusiast
